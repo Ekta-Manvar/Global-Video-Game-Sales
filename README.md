@@ -2,7 +2,7 @@
 
 Please Follow Below Link for more information on project 
 
-https://ektamanvarportfolio.wordpress.com/videogamesales/
+<a href="https://ektamanvarportfolio.wordpress.com/videogamesales/" traget="_blank">Click Here</a>
 
 
 
